@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4769" started-at="2024-08-25T11:52:20Z" finished-at="2024-08-25T11:52:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4769" started-at="2024-08-25T11:52:20Z" finished-at="2024-08-25T11:52:25Z">
+      <class name="org.testing.testScripts.ReportWithScreenshot">
+        <test-method status="PASS" signature="init()[pri:0, instance:org.testing.testScripts.ReportWithScreenshot@3c153a1]" name="init" is-config="true" duration-ms="2679" started-at="2024-08-25T11:52:20Z" finished-at="2024-08-25T11:52:23Z">
+        </test-method>
+        <test-method status="PASS" signature="testCase()[pri:0, instance:org.testing.testScripts.ReportWithScreenshot@3c153a1]" name="testCase" duration-ms="1181" started-at="2024-08-25T11:52:23Z" finished-at="2024-08-25T11:52:24Z">
+        </test-method>
+        <test-method status="PASS" signature="closure()[pri:0, instance:org.testing.testScripts.ReportWithScreenshot@3c153a1]" name="closure" is-config="true" duration-ms="900" started-at="2024-08-25T11:52:24Z" finished-at="2024-08-25T11:52:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
